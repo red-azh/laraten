@@ -1,0 +1,16 @@
+tugas
+
+
+project-app
+
+nama db : laraten
+table : mahasantri
+
+id - int
+nim - int
+nama - 100
+alamat - text 
+gender - enum('l','p')
+email - 52
+created_at - timestamp
+update_at  -timestamp

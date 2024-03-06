@@ -1,0 +1,1 @@
+{{'anda tidak diberi izizn untuk ini !!!!!!! '}}
